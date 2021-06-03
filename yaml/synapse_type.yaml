@@ -1,0 +1,196 @@
+synapse_types:
+#These are placeholder parameters to be properly filled in in future releases
+  type_1:
+    physiology:
+      U:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 0.336
+            std: 0.25
+      D:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 600.0
+            std: 22.0
+      F:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 22.0
+            std: 5.0
+      gsyn:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 0.72
+            std: 0.44
+      nrrp:
+        distribution:
+          name: uniform_int
+          params:
+            min: 1
+            max: 4
+      dtc:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 1.55
+            std: 0.4
+
+  type_2:
+    physiology:
+      U:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 0.336
+            std: 0.25
+      D:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 600.0
+            std: 22.0
+      F:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 22.0
+            std: 5.0
+      gsyn:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 0.72
+            std: 0.44
+      nrrp:
+        distribution:
+          name: uniform_int
+          params:
+            min: 1
+            max: 4
+      dtc:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 1.55
+            std: 0.4
+
+  type_3:
+    physiology:
+      U:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 0.336
+            std: 0.25
+      D:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 600.0
+            std: 22.0
+      F:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 22.0
+            std: 5.0
+      gsyn:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 0.72
+            std: 0.44
+      nrrp:
+        distribution:
+          name: uniform_int
+          params:
+            min: 1
+            max: 4
+      dtc:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 1.55
+            std: 0.4
+
+  type_4:
+    physiology:
+      U:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 0.336
+            std: 0.25
+      D:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 600.0
+            std: 22.0
+      F:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 22.0
+            std: 5.0
+      gsyn:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 0.72
+            std: 0.44
+      nrrp:
+        distribution:
+          name: uniform_int
+          params:
+            min: 1
+            max: 4
+      dtc:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 1.55
+            std: 0.4
+
+  type_5:
+    physiology:
+      U:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 0.336
+            std: 0.25
+      D:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 600.0
+            std: 22.0
+      F:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 22.0
+            std: 5.0
+      gsyn:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 0.72
+            std: 0.44
+      nrrp:
+        distribution:
+          name: uniform_int
+          params:
+            min: 1
+            max: 4
+      dtc:
+        distribution:
+          name: truncated_gaussian
+          params:
+            mean: 1.55
+            std: 0.4
